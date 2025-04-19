@@ -440,7 +440,7 @@ The password is not the only piece of information where security is critical. Fo
 {
   "type": "service_account",
   "project_id": "dbt-tutorial-347100",
-  "private_key_id": "4bc71f06990c864a590fad8b94be6a5904fc171f",
+  "private_key_id": "<SENSITIVE INFORMATION>",
   "private_key": "<SENSITIVE INFORMATION>",
   "client_email": "dbt-user-278@dbt-tutorial-347100.iam.gserviceaccount.com",
   "client_id": "115666988796889519425",
